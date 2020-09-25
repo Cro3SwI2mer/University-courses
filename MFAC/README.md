@@ -1,1 +1,1 @@
-# Course name: "Modelling of financial activities of companies"
+Course name: "Modelling of financial activities of companies"
