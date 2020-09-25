@@ -1,1 +1,1 @@
-Course name: "Modelling of financial activities of companies"
+Course on modelling of financial activities of companies
